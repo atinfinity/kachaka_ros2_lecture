@@ -9,6 +9,7 @@
   <author email="mertcooking@gmail.com">Masato Kobayashi</author>
 
   <depend>rclpy</depend>
+  <depend>tf_transformations</depend>
 
   <test_depend>ament_copyright</test_depend>
   <test_depend>ament_flake8</test_depend>
